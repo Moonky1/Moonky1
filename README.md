@@ -1,30 +1,61 @@
-<h1 align="center">👋 Hola, soy Moonky</h1>
-<p align="center">Construyo bots de Discord y automatizaciones para servidores <b>Minecraft (Towny)</b>.</p>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Discord-automation-4cadd0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Minecraft-Towny-4cadd0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Stack-Node.js%20%7C%20discord.js%20%7C%20Railway-4cadd0?style=for-the-badge" />
+  <img src="./assets/nowplaying-ey-chory-feid-animated-v6.gif" alt="Now playing: Ey Chory — Feid">
 </p>
 
-### 🚀 Ahora mismo
-- Mantengo **CocoCraft-Bot** (ver org CocoCraft-Minecraft-Server)
-- Integraciones: verificación Discord↔Minecraft, tickets, sugerencias, RCON y status
+<p align="center">
+  <img src="./assets/divider-red.png" width="66%" alt="">
+</p>
 
-### 🧰 Tech
-`Node.js` • `discord.js` • `Express` • `Railway` • `Canvas` • `RCON`
+## 👋 Hola, soy Moonky
+<!-- Skin al lado derecho, tamaño completo (sin width) -->
+<img align="right" src="./assets/about.png" alt="Moonky skin" />
 
-### 🌱 Próximo
-- Panel web para staff
-- Métricas/insights del servidor
+Construyo bots de Discord y automatizaciones para servidores **Minecraft (Towny)**.  
+Me enfoco en integraciones Discord⇄Minecraft (roles, verificación, tickets, sugerencias), **RCON**, comandos y paneles ligeros.
 
-### 📫 Contacto
-- Discord: **Moonky_**
-- Organización: **CocoCraft-Minecraft-Server**
-
----
+<br clear="both"/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Moonky1&show_icons=true&theme=dark&title_color=4cadd0&icon_color=4cadd0" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moonky1&layout=compact&theme=dark&title_color=4cadd0" height="150" />
+  <img src="./assets/divider-red.png" width="66%" alt="">
 </p>
+
+## ⚙️ Tech / Stack
+<p>
+  <img src="https://img.shields.io/badge/Node.js-Discord.js-C42A36?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-API-C42A36" />
+  <img src="https://img.shields.io/badge/Railway-Deploy-C42A36?logo=railway" />
+  <img src="https://img.shields.io/badge/RCON-Integrations-C42A36" />
+  <img src="https://img.shields.io/badge/Canvas-Images-C42A36" />
+</p>
+
+- Verificación Discord⇄Minecraft (roles y sincronización)
+- Tickets y sugerencias con logs
+- Comandos /panel, /status (RCON), /playtime
+- Métricas/insights del servidor *(en progreso)*
+
+<p align="center">
+  <img src="./assets/divider-red.png" width="66%" alt="">
+</p>
+
+## 🏛️ Organización
+**CocoCraft-Minecraft-Server** — repos de bots, panel y assets del servidor.  
+👉 **[Visitar organización »](https://github.com/CocoCraft-Minecraft-Server)**
+
+<p align="center">
+  <img src="./assets/divider-red.png" width="66%" alt="">
+</p>
+
+## 🏆 Top bots
+| # | Bot | Repositorio | Stack | Estado |
+|---:|-----|:-----------|:------|:------|
+| 🥇 | **CocoCraft-Bot** | https://github.com/CocoCraft-Minecraft-Server/CocoCraft-Bot | Node.js · discord.js · Railway | Activo |
+| 🥈 | **Maple Village – Sugerencias** | _añade el enlace_ | Node.js · discord.js | Activo |
+| 🥉 | **Baby** | _añade el enlace_ | Node.js · discord.js | En desarrollo |
+
+<p align="center">
+  <img src="./assets/divider-red.png" width="66%" alt="">
+</p>
+
+## 📫 Contacto
+- **Discord:** Moonky_
+- **Org:** CocoCraft-Minecraft-Server
