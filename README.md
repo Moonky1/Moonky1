@@ -1,61 +1,85 @@
-<p align="center">
-  <img src="./assets/nowplaying-ey-chory-feid-animated-v6.gif" alt="Now playing: Ey Chory — Feid">
-</p>
+<!-- =========================
+  Moonky Profile README (EN)
+  Needs in /assets/:
+  - about.png
+  - nowplaying-ey-chory-feid-animated-v6.gif
+  - divider-red-animated.gif (or -4px)
+=========================== -->
+
+<!-- Title + two-column layout (text left, skin right, middle-aligned) -->
+<table>
+  <tr>
+    <td valign="middle" width="64%">
+      
+      ## 👋 Hi, I’m Moonky
+
+      - I build **Discord automations** and **Minecraft (Towny)** integrations.  
+      - I speak **Spanish** and **English**.  
+      - I’ve been building **bots for 4 years**.  
+      - I focus on **clean UX**, solid **role syncs Discord⇄Minecraft**, **RCON** utilities, and **lightweight dashboards**.
+
+    </td>
+    <td valign="middle" width="36%" align="right">
+      <img src="./assets/about.png" alt="Moonky skin" width="360" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="./assets/divider-red.png" width="66%" alt="">
+  <img src="./assets/divider-red-animated.gif" width="80%" alt="">
 </p>
 
-## 👋 Hola, soy Moonky
-<!-- Skin al lado derecho, tamaño completo (sin width) -->
-<img align="right" src="./assets/about.png" alt="Moonky skin" />
-
-Construyo bots de Discord y automatizaciones para servidores **Minecraft (Towny)**.  
-Me enfoco en integraciones Discord⇄Minecraft (roles, verificación, tickets, sugerencias), **RCON**, comandos y paneles ligeros.
-
-<br clear="both"/>
+<!-- Anthem / Now Playing (smaller and right after intro) -->
+<p align="center">
+  <em>My all-time anthem is…</em><br/>
+  <strong>“Ey Chory” — Feid</strong>
+</p>
+<p align="center">
+  <img src="./assets/nowplaying-ey-chory-feid-animated-v6.gif" width="420" alt="Now playing: Ey Chory — Feid" />
+</p>
 
 <p align="center">
-  <img src="./assets/divider-red.png" width="66%" alt="">
+  <img src="./assets/divider-red-animated.gif" width="80%" alt="">
 </p>
 
-## ⚙️ Tech / Stack
-<p>
-  <img src="https://img.shields.io/badge/Node.js-Discord.js-C42A36?logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-API-C42A36" />
-  <img src="https://img.shields.io/badge/Railway-Deploy-C42A36?logo=railway" />
-  <img src="https://img.shields.io/badge/RCON-Integrations-C42A36" />
-  <img src="https://img.shields.io/badge/Canvas-Images-C42A36" />
-</p>
-
-- Verificación Discord⇄Minecraft (roles y sincronización)
-- Tickets y sugerencias con logs
-- Comandos /panel, /status (RCON), /playtime
-- Métricas/insights del servidor *(en progreso)*
+## ⚙️ What I build
+- Discord⇄Minecraft verification with role synchronization  
+- Tickets & suggestions (with logs)  
+- RCON commands: status, panel hooks, automation  
+- Server insights & metrics *(in progress)*
 
 <p align="center">
-  <img src="./assets/divider-red.png" width="66%" alt="">
+  <img src="./assets/divider-red-animated.gif" width="80%" alt="">
 </p>
 
-## 🏛️ Organización
-**CocoCraft-Minecraft-Server** — repos de bots, panel y assets del servidor.  
-👉 **[Visitar organización »](https://github.com/CocoCraft-Minecraft-Server)**
+## 🏆 Top Bots (minimal)
+- **CocoCraft-Bot** — **Active**  
+  <sub>Stack: Node.js · discord.js · Railway</sub>
+
+- **Maple Village — Suggestions** — **Active**  
+  <sub>Stack: Node.js · discord.js</sub>
+
+- **Baby** — **In development**  
+  <sub>Stack: Node.js · discord.js</sub>
 
 <p align="center">
-  <img src="./assets/divider-red.png" width="66%" alt="">
+  <img src="./assets/divider-red-animated.gif" width="80%" alt="">
 </p>
 
-## 🏆 Top bots
-| # | Bot | Repositorio | Stack | Estado |
-|---:|-----|:-----------|:------|:------|
-| 🥇 | **CocoCraft-Bot** | https://github.com/CocoCraft-Minecraft-Server/CocoCraft-Bot | Node.js · discord.js · Railway | Activo |
-| 🥈 | **Maple Village – Sugerencias** | _añade el enlace_ | Node.js · discord.js | Activo |
-| 🥉 | **Baby** | _añade el enlace_ | Node.js · discord.js | En desarrollo |
+## 🏛️ Organization
+**CocoCraft-Minecraft-Server** — bots, panel, and server assets.  
+👉 **[Visit the organization »](https://github.com/CocoCraft-Minecraft-Server)**
 
 <p align="center">
-  <img src="./assets/divider-red.png" width="66%" alt="">
+  <img src="./assets/divider-red-animated.gif" width="80%" alt="">
 </p>
 
-## 📫 Contacto
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Moonky1&show_icons=true&hide_title=false&count_private=true&include_all_commits=true&ring_color=C42A36&title_color=C42A36&text_color=EDEDED&icon_color=C42A36&bg_color=0D1117" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moonky1&layout=compact&langs_count=8&title_color=C42A36&text_color=EDEDED&bg_color=0D1117" height="160" />
+</p>
+
+## 📫 Contact
 - **Discord:** Moonky_
 - **Org:** CocoCraft-Minecraft-Server
