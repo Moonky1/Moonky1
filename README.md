@@ -16,7 +16,6 @@
             <strong>RCON</strong> utilities, and <strong>lightweight dashboards</strong>.</li>
       </ul>
     </td>
-[test de ruta](assets/skin.png)
 
     <!-- Columna derecha: skin -->
     <td width="36%" valign="middle" align="right">
@@ -24,6 +23,8 @@
     </td>
   </tr>
 </table>
+
+[test de ruta](assets/skin.png)
 
 <!-- Anthem / Now Playing -->
 <p align="center">
