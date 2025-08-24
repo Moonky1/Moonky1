@@ -3,6 +3,7 @@
   <img src="./assets/banner_animado_sin_link.gif" alt="Moonky Discord Dev — animated banner" width="100%" />
 </p>
 <!-- Two-column intro: text left, skin right -->
+
 <table>
   <tr>
     <!-- IZQUIERDA: texto -->
@@ -16,14 +17,15 @@
             <strong>RCON</strong> utilities, and <strong>lightweight dashboards</strong>.</li>
       </ul>
     </td>
-
-    <!-- DERECHA: skin -->
     <td width="36%" valign="middle" align="right">
-      <img src="./assets/skin.png?v=1" alt="Moonky — skin" width="360">
+      <img
+        src="https://github.com/Moonky1/Moonky1/blob/main/assets/skin.png"
+        alt="Moonky — skin"
+        width="360"
+      />
     </td>
   </tr>
 </table>
-
 
 
 <!-- Anthem / Now Playing -->
