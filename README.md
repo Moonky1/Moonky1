@@ -27,7 +27,6 @@
     </td>
 
     <td width="36%" valign="middle" align="right">
-      <!-- IMPORTANTE: el archivo debe existir como ./assets/skin.png -->
       <img src="./assets/skin.png?v=4" alt="Moonky — skin" width="360" />
     </td>
   </tr>
