@@ -25,8 +25,10 @@
         <li>I focus on <strong>clean UX</strong>, solid <strong>role syncs Discord⇄Minecraft</strong>, <strong>RCON</strong> utilities, and <strong>lightweight dashboards</strong>.</li>
       </ul>
     </td>
+
     <td width="36%" valign="middle" align="right">
-      <img src="./assets/skin.png" alt="skin — Moonky" width="360" />
+      <!-- IMPORTANTE: el archivo debe existir como ./assets/skin.png -->
+      <img src="./assets/skin.png?v=4" alt="Moonky — skin" width="360" />
     </td>
   </tr>
 </table>
