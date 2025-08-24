@@ -30,7 +30,7 @@
 
 <!-- Anthem / Now Playing -->
 <p align="center">
-  <strong>“EY CHOOOORYYYYYY/strong>
+  <strong>EY CHOOOORYYYYYY>
 </p>
 <p align="center">
   <img src="./assets/nowplaying-ey-chory-feid-animated-v6.gif" width="420" alt="Now playing: Ey Chory — Feid" />
