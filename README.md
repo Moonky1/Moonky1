@@ -19,10 +19,11 @@
 
     <!-- DERECHA: skin -->
     <td width="36%" valign="middle" align="right">
-      <img src="assets/skin.png" alt="Moonky — skin" width="360">
+      <img src="./assets/skin.png?v=1" alt="Moonky — skin" width="360">
     </td>
   </tr>
 </table>
+
 
 
 <!-- Anthem / Now Playing -->
