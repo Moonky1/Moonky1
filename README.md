@@ -26,7 +26,7 @@
       </ul>
     </td>
     <td width="36%" valign="middle" align="right">
-      <img src="./assets/skin.png" alt="About — Moonky" width="360" />
+      <img src="./assets/skin.png" alt="skin — Moonky" width="360" />
     </td>
   </tr>
 </table>
