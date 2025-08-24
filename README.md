@@ -1,15 +1,22 @@
+<!-- ====== TOP BANNER ====== -->
+<p align="center">
+  <img src="./assets/banner_animado_sin_link.gif" alt="Moonky Discord Dev — animated banner" width="100%" />
+</p>
+
 <!-- =========================
   Moonky Profile README (EN)
   Needs in /assets/:
   - about.png
+  - skin.png
   - nowplaying-ey-chory-feid-animated-v6.gif
-  - divider-red-animated.gif (or -4px)
+  - divider-red-animated.gif
+  - banner_animado_sin_link.gif
 =========================== -->
 
-<!-- Title + two-column layout (text left, skin right, middle-aligned) -->
+<!-- Title + two-column layout (text left, skin right) -->
 <table>
   <tr>
-    <td valign="middle" width="64%">
+    <td width="64%">
       
       ## 👋 Hi, I’m Moonky
 
@@ -19,17 +26,17 @@
       - I focus on **clean UX**, solid **role syncs Discord⇄Minecraft**, **RCON** utilities, and **lightweight dashboards**.
 
     </td>
-    <td valign="middle" width="36%" align="right">
-      <img src="./assets/about.png" alt="Moonky skin" width="360" />
+    <td width="36%" align="right">
+      <img src="./assets/about.png" alt="About — Moonky" width="360" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="./assets/divider-red-animated.gif" width="80%" alt="">
+  <img src="./assets/skin.png" alt="Moonky skin" width="180" />
 </p>
 
-<!-- Anthem / Now Playing (smaller and right after intro) -->
+<!-- Anthem / Now Playing -->
 <p align="center">
   <em>My all-time anthem is…</em><br/>
   <strong>“Ey Chory” — Feid</strong>
@@ -39,7 +46,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/divider-red-animated.gif" width="80%" alt="">
+  <img src="./assets/divider-red-animated.gif" width="80%" alt="" />
 </p>
 
 ## ⚙️ What I build
@@ -49,7 +56,7 @@
 - Server insights & metrics *(in progress)*
 
 <p align="center">
-  <img src="./assets/divider-red-animated.gif" width="80%" alt="">
+  <img src="./assets/divider-red-animated.gif" width="80%" alt="" />
 </p>
 
 ## 🏆 Top Bots (minimal)
@@ -63,7 +70,7 @@
   <sub>Stack: Node.js · discord.js</sub>
 
 <p align="center">
-  <img src="./assets/divider-red-animated.gif" width="80%" alt="">
+  <img src="./assets/divider-red-animated.gif" width="80%" alt="" />
 </p>
 
 ## 🏛️ Organization
@@ -71,15 +78,15 @@
 👉 **[Visit the organization »](https://github.com/CocoCraft-Minecraft-Server)**
 
 <p align="center">
-  <img src="./assets/divider-red-animated.gif" width="80%" alt="">
+  <img src="./assets/divider-red-animated.gif" width="80%" alt="" />
 </p>
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Moonky1&show_icons=true&hide_title=false&count_private=true&include_all_commits=true&ring_color=C42A36&title_color=C42A36&text_color=EDEDED&icon_color=C42A36&bg_color=0D1117" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Moonky1&show_icons=true&hide_title=false&count_private=true&include_all_commits=true&title_color=C42A36&text_color=EDEDED&icon_color=C42A36&bg_color=0D1117" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moonky1&layout=compact&langs_count=8&title_color=C42A36&text_color=EDEDED&bg_color=0D1117" height="160" />
 </p>
 
 ## 📫 Contact
-- **Discord:** Moonky_
+- **Discord:** Moonky_  
 - **Org:** CocoCraft-Minecraft-Server
