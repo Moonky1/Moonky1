@@ -12,8 +12,7 @@
   - divider-red-animated.gif
   - banner_animado_sin_link.gif
 =========================== -->
-
-<!-- Title + two-column layout (text left, skin right) -->
+<!-- Two-column intro: text left, skin right -->
 <table>
   <tr>
     <td width="64%" valign="middle">
@@ -25,10 +24,12 @@
         <li>I focus on <strong>clean UX</strong>, solid <strong>role syncs Discord⇄Minecraft</strong>, <strong>RCON</strong> utilities, and <strong>lightweight dashboards</strong>.</li>
       </ul>
     </td>
-    <td width="36%" valign="middle" align="right">
-  <img src="./assets/skin.png" alt="Moonky — skin" width="360" />
-<table></table>
 
+    <td width="36%" valign="middle" align="right">
+      <img src="./assets/skin.png" alt="Moonky — skin" width="360" />
+    </td>
+  </tr>
+</table>
 
 <!-- Anthem / Now Playing -->
 <p align="center">
