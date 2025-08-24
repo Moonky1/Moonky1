@@ -3,30 +3,23 @@
   <img src="./assets/banner_animado_sin_link.gif" alt="Moonky Discord Dev — animated banner" width="100%" />
 </p>
 
-<!-- =========================
-  Moonky Profile README (EN)
-  Needs in /assets/:
-  - about.png
-  - skin.png
-  - nowplaying-ey-chory-feid-animated-v6.gif
-  - divider-red-animated.gif
-  - banner_animado_sin_link.gif
-=========================== -->
-<!-- Two-column intro: text left, skin right -->
 <table>
   <tr>
+    <!-- Columna izquierda: texto -->
     <td width="64%" valign="middle">
       <h2>👋 Hi, I’m Moonky</h2>
       <ul>
         <li>I build <strong>Discord automations</strong> and <strong>Minecraft (Towny)</strong> integrations.</li>
         <li>I speak <strong>Spanish</strong> and <strong>English</strong>.</li>
         <li>I’ve been building <strong>bots for 4 years</strong>.</li>
-        <li>I focus on <strong>clean UX</strong>, solid <strong>role syncs Discord⇄Minecraft</strong>, <strong>RCON</strong> utilities, and <strong>lightweight dashboards</strong>.</li>
+        <li>I focus on <strong>clean UX</strong>, solid <strong>role syncs Discord⇄Minecraft</strong>, 
+            <strong>RCON</strong> utilities, and <strong>lightweight dashboards</strong>.</li>
       </ul>
     </td>
 
+    <!-- Columna derecha: skin -->
     <td width="36%" valign="middle" align="right">
-      <img src="./assets/skin.png" alt="Moonky — skin" width="360" />
+      <img src="assets/skin.png" alt="Moonky — skin" width="360">
     </td>
   </tr>
 </table>
