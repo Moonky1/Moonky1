@@ -8,7 +8,7 @@
   <tr>
     <!-- IZQUIERDA: texto -->
     <td width="64%" valign="middle">
-      <h2>👋 Hi, I’m Moonky</h2>
+      <h2> I’m Moonky</h2>
       <ul>
         <li>I build <strong>Discord automations</strong> and <strong>Minecraft (Towny)</strong> integrations.</li>
         <li>I speak <strong>Spanish</strong> and <strong>English</strong>.</li>
@@ -30,7 +30,7 @@
 
 <!-- Anthem / Now Playing -->
 <p align="center">
-  <strong>EY CHOOOORYYYYYY>
+  <strong>EY CHOOOORYYYYYY
 </p>
 <p align="center">
   <img src="./assets/nowplaying-ey-chory-feid-animated-v6.gif" width="420" alt="Now playing: Ey Chory — Feid" />
