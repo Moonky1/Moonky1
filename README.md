@@ -16,21 +16,21 @@
 <!-- Title + two-column layout (text left, skin right) -->
 <table>
   <tr>
-    <td width="64%">
-      
-      ## 👋 Hi, I’m Moonky
-
-      - I build **Discord automations** and **Minecraft (Towny)** integrations.  
-      - I speak **Spanish** and **English**.  
-      - I’ve been building **bots for 4 years**.  
-      - I focus on **clean UX**, solid **role syncs Discord⇄Minecraft**, **RCON** utilities, and **lightweight dashboards**.
-
+    <td width="64%" valign="middle">
+      <h2>👋 Hi, I’m Moonky</h2>
+      <ul>
+        <li>I build <strong>Discord automations</strong> and <strong>Minecraft (Towny)</strong> integrations.</li>
+        <li>I speak <strong>Spanish</strong> and <strong>English</strong>.</li>
+        <li>I’ve been building <strong>bots for 4 years</strong>.</li>
+        <li>I focus on <strong>clean UX</strong>, solid <strong>role syncs Discord⇄Minecraft</strong>, <strong>RCON</strong> utilities, and <strong>lightweight dashboards</strong>.</li>
+      </ul>
     </td>
-    <td width="36%" align="right">
-      <img src="./assets/about.png" alt="About — Moonky" width="360" />
+    <td width="36%" valign="middle" align="right">
+      <img src="./assets/skin.png" alt="About — Moonky" width="360" />
     </td>
   </tr>
 </table>
+
 
 <p align="center">
   <img src="./assets/skin.png" alt="Moonky skin" width="180" />
