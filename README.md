@@ -31,14 +31,9 @@
   </tr>
 </table>
 
-
-<p align="center">
-  <img src="./assets/skin.png" alt="Moonky skin" width="180" />
-</p>
-
 <!-- Anthem / Now Playing -->
 <p align="center">
-  <em>My all-time anthem is…</em><br/>
+  <em>Ey chory believer</em><br/>
   <strong>“Ey Chory” — Feid</strong>
 </p>
 <p align="center">
