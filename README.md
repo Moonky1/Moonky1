@@ -27,7 +27,7 @@
     </td>
     <td width="36%" valign="middle" align="right">
   <img src="./assets/skin.png" alt="Moonky — skin" width="360" />
-</td>
+<table></table>
 
 
 <!-- Anthem / Now Playing -->
