@@ -12,7 +12,7 @@
       <ul>
         <li>I build <strong>Discord automations</strong> and <strong>Minecraft (Towny)</strong> integrations.</li>
         <li>I speak <strong>Spanish</strong> and <strong>English</strong>.</li>
-        <li>I’ve been building <strong>bots for 4 years</strong>.</li>
+        <li>I’ve been building <strong>Discord bots for 4 years</strong>.</li>
         <li>I focus on <strong>clean UX</strong>, solid <strong>role syncs Discord⇄Minecraft</strong>,
             <strong>RCON</strong> utilities, and <strong>lightweight dashboards</strong>.</li>
       </ul>
@@ -30,7 +30,7 @@
 
 <!-- Anthem / Now Playing -->
 <p align="center">
-  <strong>“U U U U UUUUU — Ferxxoooo</strong>
+  <strong>“EY CHOOOORYYYYYY/strong>
 </p>
 <p align="center">
   <img src="./assets/nowplaying-ey-chory-feid-animated-v6.gif" width="420" alt="Now playing: Ey Chory — Feid" />
