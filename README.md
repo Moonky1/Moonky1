@@ -5,27 +5,24 @@
 
 <table>
   <tr>
+    <!-- IZQUIERDA: texto -->
     <td width="64%" valign="middle">
       <h2>Hi, I'm Moonky 👨‍💻</h2>
       <p>
-        Self-taught automation developer specialized in 
-        <strong>Discord bot systems</strong> and 
+        Self-taught developer specialized in <strong>Discord automation</strong> and 
         <strong>Minecraft server integrations</strong>.
       </p>
-
       <ul>
-        <li>4+ years building Discord automation systems.</li>
-        <li>All projects developed independently and continuously improved.</li>
-        <li>Focused on scalable architecture and clean modular structures.</li>
-        <li>Advanced Discord ⇄ Minecraft role synchronization systems.</li>
-        <li>Experience with RCON, logging systems, and automation pipelines.</li>
+        <li>4+ years building Discord bots and automation systems.</li>
+        <li>Everything I've built has been self-driven and continuously improved.</li>
+        <li>Focused on clean UX, scalable architecture, and modular bot systems.</li>
+        <li>Advanced experience with Discord ⇄ Minecraft role synchronization.</li>
+        <li>RCON automation, dashboards, logs, and structured systems.</li>
       </ul>
-
       <p>
-        I design backend logic that feels simple for the user but is structured and scalable internally.
+        I build systems that feel simple for users — but powerful behind the scenes.
       </p>
     </td>
-
     <td width="36%" valign="middle" align="right">
       <img
         src="https://github.com/Moonky1/Moonky1/blob/main/assets/skin.png"
