@@ -5,24 +5,27 @@
 
 <table>
   <tr>
-    <!-- IZQUIERDA: texto -->
     <td width="64%" valign="middle">
       <h2>Hi, I'm Moonky 👨‍💻</h2>
       <p>
-        Self-taught developer focused on <strong>Discord automation</strong> and 
+        Self-taught automation developer specialized in 
+        <strong>Discord bot systems</strong> and 
         <strong>Minecraft server integrations</strong>.
       </p>
+
       <ul>
-        <li>Currently learning and improving every day — everything I've built has been self-driven.</li>
-        <li>4+ years building Discord bots and automation systems.</li>
-        <li>Focused on clean architecture, UX, and scalable bot structures.</li>
-        <li>Strong experience with Discord ⇄ Minecraft role synchronization.</li>
-        <li>Experience working with RCON utilities and lightweight dashboards.</li>
+        <li>4+ years building Discord automation systems.</li>
+        <li>All projects developed independently and continuously improved.</li>
+        <li>Focused on scalable architecture and clean modular structures.</li>
+        <li>Advanced Discord ⇄ Minecraft role synchronization systems.</li>
+        <li>Experience with RCON, logging systems, and automation pipelines.</li>
       </ul>
+
       <p>
-        I enjoy solving real problems through automation and creating systems that feel simple for users but powerful behind the scenes.
+        I design backend logic that feels simple for the user but is structured and scalable internally.
       </p>
     </td>
+
     <td width="36%" valign="middle" align="right">
       <img
         src="https://github.com/Moonky1/Moonky1/blob/main/assets/skin.png"
@@ -33,10 +36,10 @@
   </tr>
 </table>
 
-<!-- Anthem / Now Playing -->
 <p align="center">
   <strong>EY CHOOOORYYYYYY</strong>
 </p>
+
 <p align="center">
   <img src="./assets/nowplaying-ey-chory-feid-animated-v6.gif" width="420" alt="Now playing: Ey Chory — Feid" />
 </p>
@@ -45,14 +48,15 @@
   <img src="./assets/divider-red-animated.gif" width="80%" alt="" />
 </p>
 
-## 🚀 What I Build
+## 🚀 Core Focus
 
 - Discord ⇄ Minecraft verification systems  
-- Advanced role synchronization systems  
-- Ticket & suggestion systems with logging  
-- Moderation automation  
-- RCON utilities (status, automation hooks, panel integrations)  
-- Server metrics & dashboards *(currently expanding)*  
+- Advanced role synchronization logic  
+- Ticket & suggestion systems with structured logs  
+- Custom embed builders  
+- Moderation & automation commands  
+- RCON utilities & server integrations  
+- Lightweight dashboards & monitoring  
 
 <p align="center">
   <img src="./assets/divider-red-animated.gif" width="80%" alt="" />
@@ -60,14 +64,20 @@
 
 ## 🧠 Tech Stack
 
-**Main Focus**  
-Node.js · discord.js  
+**Language & Runtime**  
+Node.js (JavaScript)
 
-**Tools & Environment**  
-Git · Railway · VPS environments · JSON databases · REST APIs  
+**Main Library**  
+discord.js
 
-**Currently Learning**  
-System architecture · Scalable bot patterns · Performance optimization  
+**Development Environment**  
+Visual Studio Code
+
+**Hosting & Deployment**  
+Railway · Bloom Hosting · VPS environments
+
+**Other Tools**  
+Git · REST APIs · JSON storage · RCON integrations
 
 <p align="center">
   <img src="./assets/divider-red-animated.gif" width="80%" alt="" />
@@ -75,17 +85,73 @@ System architecture · Scalable bot patterns · Performance optimization
 
 ## 🏆 Featured Projects
 
-### CocoCraft Bot — Active
-Automation and verification system for Minecraft servers.  
-Stack: Node.js · discord.js · Railway  
+### 🌟 CocoCraft System — Flagship Project
 
-### Maple Village — Suggestions — Active
-Suggestion management with structured logging system.  
-Stack: Node.js · discord.js  
+My most complex and production-level system.
 
-### Baby — In Development
-Modular Discord bot focused on Twitch & community integrations.  
-Stack: Node.js · discord.js  
+Composed of two coordinated bots:
+
+• **CocoCraft** — Main community & automation bot  
+• **CocoCraft Verification** — Dedicated verification & role sync bot  
+
+Features:
+- Full Discord ⇄ Minecraft account linking
+- Multi-role synchronization logic
+- Ticket system with logging
+- Suggestion workflow system
+- Custom embed generation
+- Staff utilities & moderation commands
+- RCON automation
+- Metrics & structured logs
+- Modular architecture
+
+**Hosting:** Bloom Hosting  
+**Stack:** Node.js · discord.js · RCON
+
+---
+
+### 🚀 Blossom Network Bot
+
+Large-scale server automation system:
+- Verification
+- Role sync
+- Tickets
+- Moderation
+- Custom embeds
+
+**Hosting:** Railway  
+**Stack:** Node.js · discord.js
+
+---
+
+### 🚀 Astralium Bot
+
+Community automation & structured management system:
+- Verification
+- Logging
+- Moderation
+- Suggestion system
+
+**Hosting:** Railway  
+**Stack:** Node.js · discord.js
+
+---
+
+### 🏰 Britannia Bot
+
+Community management & automation system inspired by CocoCraft architecture.
+
+**Hosting:** Railway  
+**Stack:** Node.js · discord.js
+
+---
+
+### 🌿 Maple Village — Suggestions
+
+Dedicated suggestion and logging system.
+
+**Hosting:** Railway  
+**Stack:** Node.js · discord.js
 
 <p align="center">
   <img src="./assets/divider-red-animated.gif" width="80%" alt="" />
@@ -94,7 +160,7 @@ Stack: Node.js · discord.js
 ## 🏛️ Organization
 
 **CocoCraft-Minecraft-Server**  
-Bots, dashboards, and server infrastructure assets.  
+Bots, dashboards, and infrastructure assets.  
 👉 https://github.com/CocoCraft-Minecraft-Server
 
 <p align="center">
