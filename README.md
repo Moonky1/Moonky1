@@ -116,7 +116,7 @@ Large-scale server automation system:
 - Moderation
 - Custom embeds
 
-**Hosting:** Railway  
+**Hosting:** Private
 **Stack:** Node.js · discord.js
 
 ---
@@ -129,7 +129,7 @@ Community automation & structured management system:
 - Moderation
 - Suggestion system
 
-**Hosting:** Railway  
+**Hosting:** Private
 **Stack:** Node.js · discord.js
 
 ---
@@ -138,7 +138,7 @@ Community automation & structured management system:
 
 Community management & automation system inspired by CocoCraft architecture.
 
-**Hosting:** Railway  
+**Hosting:** Private
 **Stack:** Node.js · discord.js
 
 ---
@@ -147,7 +147,7 @@ Community management & automation system inspired by CocoCraft architecture.
 
 Dedicated suggestion and logging system.
 
-**Hosting:** Railway  
+**Hosting:** Private
 **Stack:** Node.js · discord.js
 
 <p align="center">
