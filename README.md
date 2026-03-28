@@ -105,30 +105,12 @@ Git · REST APIs · Google Sheets API · JSON storage · RCON integrations
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats-8yr04qu9y-servicraft.vercel.app/api?username=Moonky1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e05260&icon_color=e05260&text_color=ffffff&count_private=true"
-    height="165"
-  />&nbsp;&nbsp;
-  <img
-    src="https://github-readme-stats-8yr04qu9y-servicraft.vercel.app/api/top-langs/?username=Moonky1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e05260&text_color=ffffff&langs_count=6&card_width=300"
-    height="165"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Moonky1&theme=tokyonight&hide_border=true&background=0d1117&ring=e05260&fire=e05260&currStreakLabel=e05260&sideLabels=ffffff&dates=888888"
-    alt="GitHub Streak"
-    width="55%"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Moonky1&theme=tokyonight&no-bg=true&no-frame=true&column=6&margin-w=8"
-    alt="GitHub Trophies"
-    width="90%"
-  />
+  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=3FA84A" />
+  <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/JSON-0d1117?style=for-the-badge&logo=json&logoColor=ffffff" />
 </p>
 
 ## 📬 Contact
