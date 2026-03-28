@@ -113,6 +113,28 @@ Git · REST APIs · Google Sheets API · JSON storage · RCON integrations
   <img src="https://img.shields.io/badge/JSON-0d1117?style=for-the-badge&logo=json&logoColor=ffffff" />
 </p>
 
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Moonky1&theme=tokyonight&hide_border=true&background=0d1117&ring=e05260&fire=e05260&currStreakLabel=e05260&sideLabels=ffffff&dates=888888"
+    alt="GitHub Streak"
+    width="55%"
+  />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Total%20Commits-268-e05260?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Stars%20Earned-2-e05260?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Repos-Public-e05260?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Moonky1&theme=tokyonight&no-bg=true&no-frame=true&column=6&margin-w=8"
+    alt="GitHub Trophies"
+    width="90%"
+  />
+</p>
+
 ## 📬 Contact
 
 - **Discord:** Moonky_
