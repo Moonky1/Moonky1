@@ -106,20 +106,20 @@ Git · REST APIs · Google Sheets API · JSON storage · RCON integrations
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Moonky1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e05260&icon_color=e05260&text_color=ffffff&ring_color=e05260"
-    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=Moonky1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e05260&icon_color=e05260&text_color=ffffff&count_private=true&rank_icon=github"
+    height="165"
     alt="Moonky's GitHub Stats"
-  />
+  />&nbsp;&nbsp;
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moonky1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e05260&text_color=ffffff&langs_count=6"
-    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moonky1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e05260&text_color=ffffff&langs_count=6&card_width=300"
+    height="165"
     alt="Top Languages"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=Moonky1&theme=tokyonight&hide_border=true&background=0d1117&ring=e05260&fire=e05260&currStreakLabel=e05260&sideLabels=ffffff&dates=888888"
+    src="https://streak-stats.demolab.com?user=Moonky1&theme=tokyonight&hide_border=true&background=0d1117&ring=e05260&fire=e05260&currStreakLabel=e05260&sideLabels=ffffff&dates=888888"
     alt="GitHub Streak"
     width="55%"
   />
@@ -131,10 +131,6 @@ Git · REST APIs · Google Sheets API · JSON storage · RCON integrations
     alt="GitHub Trophies"
     width="90%"
   />
-</p>
-
-<p align="center">
-  <img src="./assets/divider-red-animated.gif" width="80%" alt="" />
 </p>
 
 ## 📬 Contact
