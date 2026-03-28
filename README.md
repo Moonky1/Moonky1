@@ -106,14 +106,12 @@ Git · REST APIs · Google Sheets API · JSON storage · RCON integrations
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Moonky1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e05260&icon_color=e05260&text_color=ffffff&count_private=true&rank_icon=github"
+    src="https://github-readme-stats-8yr04qu9y-servicraft.vercel.app/api?username=Moonky1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e05260&icon_color=e05260&text_color=ffffff&count_private=true"
     height="165"
-    alt="Moonky's GitHub Stats"
   />&nbsp;&nbsp;
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moonky1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e05260&text_color=ffffff&langs_count=6&card_width=300"
+    src="https://github-readme-stats-8yr04qu9y-servicraft.vercel.app/api/top-langs/?username=Moonky1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e05260&text_color=ffffff&langs_count=6&card_width=300"
     height="165"
-    alt="Top Languages"
   />
 </p>
 
