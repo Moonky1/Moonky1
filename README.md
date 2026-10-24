@@ -32,63 +32,8 @@ I build systems that feel simple for users — but powerful behind the scenes.
   <img src="./assets/divider-red-animated.gif" width="80%" alt="" />
 </p>
 
-## 🧠 Tech Stack
-
-**Frontend**
-React · Vite · React Router · HTML5 · CSS3 · JavaScript (ES6+)
-
-**Backend & Automation**
-Node.js · Google Apps Script · REST APIs · discord.js
-
-**Development Environment**
-Visual Studio Code · Git
-
-**Hosting & Deployment**
-Vercel · Railway · Bloom Hosting · VPS environments
-
-**Other Tools**
-Google Sheets API · JSON storage · MongoDB · RCON integrations
-
-<p align="center">
-  <img src="./assets/divider-red-animated.gif" width="80%" alt="" />
-</p>
-
-## 🏆 Featured Projects
-
-### 📊 Pulse Dashboard — Featured
-
-> Real-time agent performance tracking platform built for call center team leaders and supervisors.
-
-**What it does:**
-- Live transfer metrics per agent pulled directly from Google Sheets
-- Team overview across 6 regions (Philippines, Venezuela, Colombia, Mexico, Central America, Asia)
-- Daily goal tracking — flags who hit target transfers, who's in progress, and who's at zero
-- Top 3 leaderboard per team (English, Spanish, Total)
-- Auto-refreshes every 60 seconds — no manual updates needed
-- Built-in training & gamification module (quizzes, presentations, roleplay guides)
-
-**Who it's for:** Team Leaders, Supervisors, and QA. Users register once with Google and select their team permanently.
-
-**Stack:** React · Vite · React Router · Google Sheets CSV API · Google Apps Script · Vercel
-
-👉 [View Repository](https://github.com/Moonky1/pulse-dashboard)
-
 ---
 
-### 🛒 E-commerce & Support Platform
-
-> Custom-built web storefront and support infrastructure for an online community.
-
-**What it does:**
-- Custom dark-themed storefront with product modals, hero section, and announcement bar
-- Ticket transcript viewer built with Next.js, backed by MongoDB Atlas
-- Media storage handled through Cloudflare R2
-
-**Stack:** Next.js · MongoDB Atlas · Cloudflare R2
-
-<p align="center">
-  <img src="./assets/divider-red-animated.gif" width="80%" alt="" />
-</p>
 
 ## 📊 GitHub Stats
 
